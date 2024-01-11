@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>easy-notes</name>
+	<name>Registration</name>
 	<description>Rest API for a MCCS Demo Application</description>
 
 	<parent>
